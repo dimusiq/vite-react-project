@@ -1,11 +1,11 @@
 import React from 'react'
 
-function Business() {
-  return (
+const Business =()=> 
+   (
     <div>
-      
+      Bussines
     </div>
   )
-}
+
 
 export default Business
